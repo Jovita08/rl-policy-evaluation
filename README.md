@@ -36,8 +36,7 @@ The agent receives a reward of +1 for reaching the goal state (G). The agent rec
 
 ### Graphical Representation :
 <p align="center">
-<img width="600" src="![image](https://github.com/Jovita08/rl-policy-evaluation/assets/94174503/5a82c536-3b60-4846-bcb2-8cd995c8b691)
-"> </p>
+<img width="600" src="https://github.com/ShafeeqAhamedS/RL_2_Policy_Eval/assets/93427237/e7af87e7-fe73-47fa-8bea-2040b7645e44"> </p>
 
 
 ## POLICY EVALUATION FUNCTION :
@@ -63,18 +62,19 @@ def policy_evaluation(pi, P, gamma=0.9, theta=1e-10):
 
 ## OUTPUT :
 ### Policy 1:
-![image](https://github.com/ShafeeqAhamedS/RL_2_Policy_Eval/assets/93427237/0a210271-47e9-4ea5-ab83-35053faaf4a5)
-![image](https://github.com/ShafeeqAhamedS/RL_2_Policy_Eval/assets/93427237/b3b933fd-60c8-48ec-b45b-07721b2d58bd)
-![image](https://github.com/ShafeeqAhamedS/RL_2_Policy_Eval/assets/93427237/c8ec140b-ac35-41cb-b068-d2e3f66fbc3b)
+![image](https://github.com/Jovita08/rl-policy-evaluation/assets/94174503/36cad0ff-f11d-44a5-abac-96a73ad764eb)
+![image](https://github.com/Jovita08/rl-policy-evaluation/assets/94174503/c921ac0e-10bb-4b70-8fa9-63f64d52a14d)
+![image](https://github.com/Jovita08/rl-policy-evaluation/assets/94174503/fed6f8e0-4ee8-4735-b1d2-335fea16d37e)
+
 ### Policy 2:
-![image](https://github.com/ShafeeqAhamedS/RL_2_Policy_Eval/assets/93427237/c5863b33-0d56-45e6-9836-3b69f9515c4d)
-![image](https://github.com/ShafeeqAhamedS/RL_2_Policy_Eval/assets/93427237/f1875c9e-91fb-467c-ad63-df77c705ae0a)
-![image](https://github.com/ShafeeqAhamedS/RL_2_Policy_Eval/assets/93427237/0435f712-b2a4-44e8-ab64-a37fde842551)
+![image](https://github.com/Jovita08/rl-policy-evaluation/assets/94174503/2837633a-587c-4fdb-920d-5071f761d30a)
+![image](https://github.com/Jovita08/rl-policy-evaluation/assets/94174503/4b75c2b7-6154-4e86-810b-233206e9d83e)
+![image](https://github.com/Jovita08/rl-policy-evaluation/assets/94174503/0f865cfd-0812-488f-8a60-61c529b816e4)
 ### Comparison:
-![image](https://github.com/ShafeeqAhamedS/RL_2_Policy_Eval/assets/93427237/4c85b228-5826-43a1-9733-44a99a57cb42)
+![image](https://github.com/Jovita08/rl-policy-evaluation/assets/94174503/c18d1016-be97-442d-9cd6-819c4794496a)
 ### Conclusion:
-<p align="center">
-<img src="https://github.com/ShafeeqAhamedS/RL_2_Policy_Eval/assets/93427237/4c0e961c-301e-4d9b-96cc-cdeb490f13c9"> </p>
+![image](https://github.com/Jovita08/rl-policy-evaluation/assets/94174503/41fb8906-0847-4e7c-a302-3d165d19bcbf)
+
 
 
 ## RESULT :
