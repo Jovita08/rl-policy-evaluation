@@ -36,7 +36,8 @@ The agent receives a reward of +1 for reaching the goal state (G). The agent rec
 
 ### Graphical Representation :
 <p align="center">
-<img width="600" src="https://github.com/ShafeeqAhamedS/RL_2_Policy_Eval/assets/93427237/e7af87e7-fe73-47fa-8bea-2040b7645e44"> </p>
+<img width="600" src="![image](https://github.com/Jovita08/rl-policy-evaluation/assets/94174503/5a82c536-3b60-4846-bcb2-8cd995c8b691)
+"> </p>
 
 
 ## POLICY EVALUATION FUNCTION :
